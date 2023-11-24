@@ -11,7 +11,7 @@ struct Person{
 
 int main(){
 
-    Person someone = {"Abhsihek", 28, 72.3};
+    Person someone = {"Harry Potter", 28, 72.3};
     // std::cout << sizeof(Person) << std::endl;
     std::string fileName = "test.bin";
     std::ofstream outfile;
