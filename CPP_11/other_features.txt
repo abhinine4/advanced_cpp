@@ -1,0 +1,7 @@
+range based for loop
+nested template classes (nested classes can use the same typename)
+range based for loop for classes
+nullptr -> used to point to null values in modern C++
+initializer list (#include <initializer_list>)
+object initialization  (default, delete)
+lambda expressions
